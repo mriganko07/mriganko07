@@ -31,4 +31,5 @@
 
 <h3 align="left"> 📈 Productivity stats:</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mriganko07&theme=monokai" display=block width=100% height=auto alt="1">
-<img src="https://komarev.com/ghpvc/?username=mriganko07">
+<!-- <img src="https://komarev.com/ghpvc/?username=mriganko07">
+ -->
