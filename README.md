@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mriganko07&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhiphalder&theme=dracula&hide_border=true" alt="GitHub Streak Stats"> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mriganko07&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"> <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mriganko07&theme=dracula&hide_border=false" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriganko07&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 </div>
