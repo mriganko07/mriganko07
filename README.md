@@ -4,8 +4,18 @@
 </div>
 <h2 align="left">About Me :</h2>
 
-<p align="center" style="color: red;">
- Hello, I'm Mriganka Adhikary, a BCA graduate from Techno India Hooghly with skills in Python, PHP, JavaScript, HTML, CSS, MySQL, and Laravel. I have experience in web development and database management, focusing on clean, efficient coding and teamwork through various projects. Beyond academics, I organized a blood donation camp, enhancing my leadership and collaboration skills. I am eager to apply my knowledge in real-world IT projects and grow professionally in the industry.
+<p align="center">
+  <strong><code>🚀 MCA Student | Web Developer | Tech Enthusiast</code></strong><br>
+</p>
+
+<p align="center">
+  𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙼𝚛𝚒𝚐𝚊𝚗𝚔𝚊 𝙰𝚍𝚑𝚒𝚔𝚊𝚛𝚢, 𝚊 𝙱𝙲𝙰 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚏𝚛𝚘𝚖 𝚃𝚎𝚌𝚑𝚗𝚘 𝙸𝚗𝚍𝚒𝚊 𝙷𝚘𝚘𝚐𝚑𝚕𝚢 𝚠𝚒𝚝𝚑 𝚜𝚝𝚛𝚘𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙿𝙷𝙿, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂, 𝙼𝚢𝚂𝚀𝙻, 𝚊𝚗𝚍 𝙻𝚊𝚛𝚊𝚟𝚎𝚕.  
+  <br>
+  𝙸 𝚑𝚊𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝, 𝚏𝚘𝚌𝚞𝚜𝚒𝚗𝚐 𝚘𝚗 𝚌𝚕𝚎𝚊𝚗, 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚝𝚎𝚊𝚖𝚠𝚘𝚛𝚔 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.  
+  <br>
+  𝙱𝚎𝚢𝚘𝚗𝚍 𝚊𝚌𝚊𝚍𝚎𝚖𝚒𝚌𝚜, 𝙸 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚎𝚍 𝚊 𝚋𝚕𝚘𝚘𝚍 𝚍𝚘𝚗𝚊𝚝𝚒𝚘𝚗 𝚌𝚊𝚖𝚙, 𝚠𝚑𝚒𝚌𝚑 𝚎𝚗𝚑𝚊𝚗𝚌𝚎𝚍 𝚖𝚢 𝚕𝚎𝚊𝚍𝚎𝚛𝚜𝚑𝚒𝚙 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 𝚜𝚔𝚒𝚕𝚕𝚜.  
+  <br>
+  𝙸 𝚊𝚖 𝚎𝚊𝚐𝚎𝚛 𝚝𝚘 𝚊𝚙𝚙𝚕𝚢 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝙸𝚃 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚐𝚛𝚘𝚠 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚕𝚢 𝚒𝚗 𝚝𝚑𝚎 𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚢.
 </p>
 <br>
 
@@ -17,7 +27,7 @@
     alt="GitHub Stats"
   />
   
-  <br><br>
+  <br>
 
   <!-- Streak Stats -->
   <img 
@@ -25,7 +35,7 @@
     alt="GitHub Streak"
   />
 
-  <br><br>
+  <br>
 
   <!-- Top Languages -->
   <img 
