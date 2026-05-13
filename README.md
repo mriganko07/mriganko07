@@ -10,9 +10,28 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriganko07&theme=dracula&hide_border=false"> <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mriganko07&theme=dracula&hide_border=false" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriganko07&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=mriganko07&show_icons=true&theme=dracula&hide_border=true" 
+    alt="GitHub Stats"
+  />
+  
+  <br><br>
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=mriganko07&theme=dracula&hide_border=true" 
+    alt="GitHub Streak"
+  />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mriganko07&layout=compact&theme=dracula&hide_border=true" 
+    alt="Top Languages"
+  />
 
 </div>
 
